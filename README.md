@@ -2,9 +2,9 @@
 
 ![current setup](other/IMG_5995.jpg)
 Backup of my working zmk config for:
-* Prospector dongle as central (seeed studio xiao sense)
-* Totem wireless split keyboard as peripherals (seeed studio xiao sense)
-* Ploopy Adept trackball with BLE/ZMK mod as peripheral (seeed studio xiao sense)
+* Prospector dongle (central)
+* Totem wireless split keyboard (peripherals 1 and 3)
+* Ploopy Adept trackball with BLE/ZMK mod (peripheral 2)
 * with zmk studio support.
 
 To Do: Edit keymap and tweak settings for trackball.
