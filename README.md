@@ -9,5 +9,12 @@ Backup of my working zmk config for:
 
 To Do: Edit keymap and tweak settings for trackball.
 
+Standing on the Shoulders of:
+GEIST
+manna-harbour
+Eigatech
+Taichan
+Ergomech
+
 ![current keymap](other/totem_keymap.png)
 
