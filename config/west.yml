@@ -6,8 +6,8 @@ manifest:
       url-base: https://github.com/badjeff
     - name: cyboard
       url-base: https://github.com/Cyboard-DigitalTailor
-    - name: carrefinho
-      url-base: https://github.com/carrefinho
+    - name: janpfischer
+      url-base: https://github.com/janpfischer
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -19,8 +19,8 @@ manifest:
 #    - name: zmk-pwm3610-driver
 #      remote: cyboard
 #      revision: startup_optimization
-    - name: prospector-zmk-module
-      remote: carrefinho
+    - name: zmk-dongle-screen
+      remote: janpfischer
       revision: main
   self:
     path: config
