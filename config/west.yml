@@ -4,8 +4,6 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: badjeff
       url-base: https://github.com/badjeff
-    - name: cyboard
-      url-base: https://github.com/Cyboard-DigitalTailor
     - name: janpfischer
       url-base: https://github.com/janpfischer
   projects:
@@ -16,9 +14,6 @@ manifest:
     - name: zmk-pmw3610-driver
       remote: badjeff
       revision: main
-#    - name: zmk-pwm3610-driver
-#      remote: cyboard
-#      revision: startup_optimization
     - name: zmk-dongle-screen
       remote: janpfischer
       revision: main
