@@ -1,5 +1,7 @@
 # zmk-totem-prospector-studio-adept
 
+YADS branch built for testing janpfischer's "Yet Another Dongle Screen". Has not been updated for zephyr 4.1
+
 ![current setup](other/IMG_5995.jpg)
 Backup of my working zmk config for:
 * Prospector dongle (central)
