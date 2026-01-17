@@ -1,6 +1,6 @@
 # zmk-totem-prospector-studio-adept
 
-main is testing zmk with zephyr 4.1 and is not working yet.
+main branch has been updated to build against zmk 4.1
 
 ![current setup](other/IMG_5995.jpg)
 Backup of my working zmk config for:
