@@ -1,13 +1,14 @@
 boards:
-  name: xiao_ble
-  vendor: seeeduino
+  - name: totem_dongle
+    vendor: seeeduino
+  - name: totem_left
+    vendor: seeeduino
+  - name: totem_right
+    vendor: seeeduino
+  - name: totem_trackball
+    vendor: seeeduino
 socs:
-  - name: <soc-1>
-    variants:
-    - name: <variant-1>
-    - name: <variant-2>
-      variants:
-      - name: <sub-variant-2-1>
-        ...
-  - name: <soc-2>
-    ...
+  - name: <nrf52840>
+  - name: <nrf52840>
+  - name: <nrf52840>
+  - name: <nrf52840>
