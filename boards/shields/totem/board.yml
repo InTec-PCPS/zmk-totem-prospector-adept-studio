@@ -1,11 +1,11 @@
 boards:
-  - name: totem_dongle
+  - name: xiao_ble
     vendor: seeeduino
-  - name: totem_left
+  - name: xiao_ble
     vendor: seeeduino
-  - name: totem_right
+  - name: xiao_ble
     vendor: seeeduino
-  - name: totem_trackball
+  - name: xiao_ble
     vendor: seeeduino
 socs:
   - name: <nrf52840>
