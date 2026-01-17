@@ -1,5 +1,7 @@
 # zmk-totem-prospector-studio-adept
 
+main-3.5 branch built for zmk v0.2
+
 ![current setup](other/IMG_5995.jpg)
 Backup of my working zmk config for:
 * Prospector dongle (central)
