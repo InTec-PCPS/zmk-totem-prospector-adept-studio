@@ -1,0 +1,13 @@
+boards:
+  name: xiao_ble
+  vendor: seeeduino
+socs:
+  - name: <soc-1>
+    variants:
+    - name: <variant-1>
+    - name: <variant-2>
+      variants:
+      - name: <sub-variant-2-1>
+        ...
+  - name: <soc-2>
+    ...
