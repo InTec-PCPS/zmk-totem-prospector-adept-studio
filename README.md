@@ -1,6 +1,6 @@
 # zmk-totem-prospector-studio-adept
 
-main branch has been updated to build against zmk 4.1
+main branch is testing a build against zmk main...without a whole lot of success
 
 ![current setup](other/IMG_5995.jpg)
 Backup of my working zmk config for:
