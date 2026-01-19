@@ -24,10 +24,10 @@
         };
     };
     
-        trackball_listener: trackball_listner {
+        trackball_listener: trackball_listener {
         compatible = "zmk,input-listener";
         device = <&trackball_split>;
-        status = "disabled";
+        status = "enabled";
         input-processors = <&zip_xy_swap_mapper>;
         scroll {
         layers = <nums7>;
